@@ -1,2 +1,2 @@
 # authentication-jwt
-user registration and authentication using expressjs and jwt
+user registration and authentication api using expressjs and jwt
