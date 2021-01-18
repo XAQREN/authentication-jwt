@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const MONGOURI = "mongodb+srv://new_user3:eyqmK1OTCR41ioEx@cluster0.bps2t.mongodb.net/local_library?retryWrites=true&w=majority";
+const MONGOURI = "mongodb+srv://<username>:<password>@cluster0.bps2t.mongodb.net/local_library?retryWrites=true&w=majority";
 
 const InitiateMongoServer = async() =>{
 
